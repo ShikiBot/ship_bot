@@ -1,0 +1,13 @@
+Z:\projects\ship_bot\ship_bot\obj\Debug\ship_bot.csprojAssemblyReference.cache
+Z:\projects\ship_bot\ship_bot\obj\Debug\ship_bot.csproj.CoreCompileInputs.cache
+Z:\projects\ship_bot\ship_bot\bin\Debug\ship_bot.exe.config
+Z:\projects\ship_bot\ship_bot\bin\Debug\ship_bot.exe
+Z:\projects\ship_bot\ship_bot\bin\Debug\ship_bot.pdb
+Z:\projects\ship_bot\ship_bot\bin\Debug\Newtonsoft.Json.dll
+Z:\projects\ship_bot\ship_bot\bin\Debug\Telegram.Bot.dll
+Z:\projects\ship_bot\ship_bot\bin\Debug\Newtonsoft.Json.xml
+Z:\projects\ship_bot\ship_bot\bin\Debug\Telegram.Bot.xml
+Z:\projects\ship_bot\ship_bot\obj\Debug\ship_bot.csproj.CopyComplete
+Z:\projects\ship_bot\ship_bot\obj\Debug\ship_bot.exe
+Z:\projects\ship_bot\ship_bot\obj\Debug\ship_bot.pdb
+Z:\projects\ship_bot\ship_bot\bin\Debug\MihaZupan.HttpToSocks5Proxy.dll
